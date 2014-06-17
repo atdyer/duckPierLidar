@@ -1,0 +1,11 @@
+('/home/tristan/Desktop/scripts/work/build/lidarBoom2D/out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', '/home/tristan/Desktop/scripts/work/build/lidarBoom2D/out00-PYZ.pyz', 'PYZ'), ('_struct', '/home/tristan/Canopy/appdata/canopy-1.4.0.1938.rh5-x86_64/lib/python2.7/lib-dynload/_struct.so', 'EXTENSION'), ('struct', '/home/tristan/Canopy/appdata/canopy-1.4.0.1938.rh5-x86_64/lib/python2.7/struct.pyc', 'PYMODULE'), ('pyi_os_path', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/pyi_carchive.py', 'PYSOURCE'), ('pyi_rth_qt4plugins', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_qt4plugins.py', 'PYSOURCE'), ('pyi_rth_PIL_Image', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_PIL_Image.py', 'PYSOURCE'), ('pyi_rth_Tkinter', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_Tkinter.py', 'PYSOURCE'), ('pyi_rth_mplconfig', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_mplconfig.py', 'PYSOURCE'), ('pyi_rth_mpldata', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_mpldata.py', 'PYSOURCE'), ('pyi_rth_pkgres', '/home/tristan/Enthought/Canopy/User/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_pkgres.py', 'PYSOURCE'), ('lidarBoom2D', 'lidarBoom2D.py', 'PYSOURCE')],
+ True,
+ None,
+ False)
